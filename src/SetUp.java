@@ -1,18 +1,23 @@
 public class SetUp {
-    // Setting up project for everyone
+  
+  // Setting up project for everyone
 
-    // hanna made a branch and edited this file
+  // hanna made a branch and edited this file
 
-    // made some more changes
+  // made some more changes
 
-    // sam made a branch and edited
+  // sam made a branch and edited
 
-    // Sam made second edition
+  // sam made a branch and edited
 
-    // Sam made third edition
+  // Sam made second edition
 
-    // Sam made forth edition
+  // Sam made third edition
 
-    // Nastya made changes
+  // Sam made forth edition
+
+  // Nastya made changes
 
 }
+
+
