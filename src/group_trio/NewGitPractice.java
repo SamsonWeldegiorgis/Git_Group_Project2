@@ -9,4 +9,6 @@ public class NewGitPractice {
     // Some work was added
 
     // New comments are coming
+
+    // Bugs were found and fixed
 }
