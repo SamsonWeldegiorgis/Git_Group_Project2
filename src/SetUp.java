@@ -4,7 +4,7 @@ public class SetUp {
     // hanna made a branch and edited this file
 
     // made some more changes
-  
+
     // sam made a branch and edited
 
     // Sam made second edition
@@ -12,4 +12,6 @@ public class SetUp {
     // Sam made third edition
 
     // Sam made forth edition
+
+    // Nastya made changes
 }
